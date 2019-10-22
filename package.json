@@ -7,9 +7,11 @@
     "colors": "^1.4.0",
     "formidable": "^1.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "start": "nodemon index.js"
+  },
   "scripts": {
-    "start": "nodemon index.js",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
