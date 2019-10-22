@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +22,5 @@
   "bugs": {
     "url": "https://github.com/danielminschinski/17.9_Node_project/issues"
   },
-  "homepage": "https://github.com/danielminschinski/17.9_Node_project#readme",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "formidable": "^1.2.1"
-  }
+  "homepage": "https://github.com/danielminschinski/17.9_Node_project#readme"
 }
